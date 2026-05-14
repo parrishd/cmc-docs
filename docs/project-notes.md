@@ -38,4 +38,4 @@ The current development focus includes:
 | --- | ---: | --- |
 | Profile edit routing | High | Edit profile button appears to remain on the profile page |
 | Member visibility rules | High | Confirm group-scoped user visibility |
-| Role editing rules | Medium | Continue testing role changes by current user role |
+| Role editing rules | Medium | Continue testing role changes by current user role | 
